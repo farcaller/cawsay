@@ -4,11 +4,20 @@
  __________________
 < srsly dude, why? >
  ------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+        \
+         \
+             \/
+           .oOOo.
+          ( @)(@ )
+         (`"`  `"`)
+         .'\ '' /'.
+        / / \  / \ \
+       ; |   \/   | ;
+       |/          \|
+        \          /
+         '-......-'
+         __|_  _|__
+          /|    |\
 ````
 
 cowsay is a configurable talking cow, originally written in Perl by [Tony Monroe](https://github.com/tnalpgge/rank-amateur-cowsay)
@@ -33,17 +42,18 @@ It acts in the same way as the original cowsay, so consult `cowsay(1)` or run `c
  ________
 < indeed >
  --------
-    \
-     \
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
-        "*$bd$$$$      '*$$$$$$$$$$$o+#"
-             """"          """""""
+        \
+         \
+        __,---.
+       /__|o\  )
+        `-\ / /
+          ,) (,
+         //   \
+        {(     )}
+  =======""===""===============
+          |||||
+           |||
+            |
 ````
 
 ## Usage as a module
